@@ -24,10 +24,8 @@ Create • Read • Update • Delete — All in one elegant GUI.
 
 ---
 
-## 📷 Screenshots
-| Home Screen | Add Item | View Items |
-|-------------|----------|------------|
-| ![Home](screenshots/home.png) | ![Add](screenshots/add.png) | ![View](screenshots/view.png) |
+## 📷 Screenshot
+![image alt](https://github.com/Anjali-118/CRUD-Operations-with-Python-GUI/blob/main/Screenshot.png?raw=true)
 
 ---
 
