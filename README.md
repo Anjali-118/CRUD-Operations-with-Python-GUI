@@ -18,10 +18,6 @@ Create • Read • Update • Delete — All in one elegant GUI.
 
 ---
 
-## 🖼 Demo Video
-🎥 **[Watch the Demo Video](https://drive.google.com/your_video_link_here)**  
-*(Click the link to watch how it works)*  
-
 ---
 
 ## 📷 Screenshot
